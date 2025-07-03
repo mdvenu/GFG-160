@@ -1,4 +1,4 @@
-# 🤤 Problem: Second Largest Element in an Array
+# ⭐ Problem: Second Largest Element in an Array
 
 * **Tags:** Array, Traversal
 * **Difficulty Level:** Easy
